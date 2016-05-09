@@ -13,7 +13,7 @@
   "homepage": "http://github.com/brianc/node-postgres",
   "jspm" : {
     "registry": "npm"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/brianc/node-postgres.git"
